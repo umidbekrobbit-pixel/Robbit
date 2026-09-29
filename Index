@@ -6,40 +6,7 @@
 </head>
 <body>
 
-    
-    <header>
-        <span class="logo">Shopper</span>
-        <input type="text" placeholder="Search...">
-        <button class="btn">Login</button>
-    </header>
-
-    
-    <nav>
-        <a href="#">Features</a>
-        <a href="#">Products</a>
-        <a href="#">Blog</a>
-        <a href="#">About</a>
-    </nav>
-
-   
-    <div class="main">
-        
-        <div class="left">
-            <h1>Discover Our<br>Latest Products</h1>
-            <p>Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a product</p>
-            <button class="btn">Buy Now</button>
-            <p><b>15k Well Reviews</b></p>
-        </div>
-
-        
-        <div class="right">
-            <div class="card">
-                <h3>Red Beats</h3>
-                <div class="img">🎧</div>
-                <h2>$50</h2>
-            </div>
-            <p>▶ Play Video</p>
-        </div>
+  
 
     </div>
 
